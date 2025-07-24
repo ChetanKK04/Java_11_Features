@@ -3,6 +3,9 @@
   <groupId>Java_8_Features</groupId>
   <artifactId>Java_8_Features</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<properties>
+<maven></maven>
+	</properties>
   
   <dependencies>
 	<dependency>
